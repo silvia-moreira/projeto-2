@@ -1,0 +1,46 @@
+h2 {
+  color:black;
+  font-size: 50px;
+}
+
+ul li {
+  /* display: inline-block; */
+  padding-right: 4px;
+  border-style: outset;
+  border-radius: 8px;
+  background-color:white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+
+ul {
+    list-style-type: none;
+    width: 200px;
+}
+a:link {
+    text-decoration: none;
+    font-size: 30px;
+}
+a {
+    color:black
+}
+section, #menu{
+    height: 900px;
+    text-align: justify;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #BEB3B1 ;
+    
+
+}
+#menu {
+    height: 900px;
+    background-image: url(20210917_paulo_freire_arte.webp);border-radius: 8px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h1{
+    font-size: 100px;
+}
